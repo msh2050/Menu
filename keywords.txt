@@ -1,0 +1,16 @@
+Menu	KEYWORD1
+defineLcd	KEYWORD2
+mapKeyChar	KEYWORD2
+mapKeyInt	KEYWORD2
+lcdLine	KEYWORD2
+LcdNeedsUpdate	KEYWORD2
+LcdUpdated	KEYWORD2
+updateLcd	KEYWORD2
+update	KEYWORD2
+getCurrentLabel	KEYWORD2
+getCurrentItem	KEYWORD2
+getAction	KEYWORD2
+itemNumber	KEYWORD2
+selectItem	KEYWORD2
+done	KEYWORD2
+restart	KEYWORD2
